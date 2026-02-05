@@ -15,4 +15,4 @@ The project code can be viewed here:
 ## ⚡ Peculiarities
 -It works with Python 3. 
 -Sends a welcome message to the user. 
-Simple logic and easily modifiable.
+-Simple logic and easily modifiable.
