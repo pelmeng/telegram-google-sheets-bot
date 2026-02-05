@@ -8,7 +8,7 @@ Telegram bot written in Python that collects user requests and saves them to Goo
 - Google Sheets API
 - Flask
 
-- ## 📂 Repository on GitHub
+## 📂 Repository on GitHub
 The project code can be viewed here:  
 👉[**Check my code**](https://github.com/pelmeng/telegram-google-sheets-bot)
 
