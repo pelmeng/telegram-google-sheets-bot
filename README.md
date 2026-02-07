@@ -6,7 +6,7 @@ Telegram bot written in Python that collects user requests and saves them to Goo
 - pyTelegramBotAPI
 - Google Sheets API
 - Flask
-## Check how it works on replit
+## Check out how it works on Replit
 [**Click here**](https://replit.com/@pelmeng/Kolya-Telegram-Bot)
 
 ## 📒Note
